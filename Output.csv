@@ -1,0 +1,9 @@
+Date,Network,Product,Aggregate,Count
+2016-03,'Network 1','Loan Product 1',1000,1
+2016-03,'Network 1','Loan Product 2',3098,1
+2016-03,'Network 2','Loan Product 1',1122,1
+2016-03,'Network 3','Loan Product 2',2084,1
+2016-04,'Network 1','Loan Product 2',1801,1
+2016-04,'Network 2','Loan Product 1',5671,1
+2016-04,'Network 2','Loan Product 3',1747,1
+2016-04,'Network 3','Loan Product 3',1928,1
