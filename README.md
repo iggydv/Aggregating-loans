@@ -176,7 +176,6 @@ Ignatius Thomas de Villiers
 Contact details:
 ==================
 Email: iggydv12@gmail.com
-Cell: 064 651 6300
 
 
 
